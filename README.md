@@ -1,6 +1,6 @@
 # 🤖 **Headquarters** 🤖  
 
-![Agents and Bots in Action](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)  
+![Agents and Bots in Action](https://media.giphy.com/media/1hW8ak3UYYZwtzR1az/giphy.gif)  
 
 **Headquarters** é uma aplicação para iniciar bots e agentes de IA. Com suporte para FastAPI, gerencia automações de forma eficiente e estruturada.  
 
